@@ -91,7 +91,7 @@ li::marker {
 
     background-blend-mode: overlay;
     background-repeat: no-repeat;
-    
+    background-size: cover;
     border-radius: 8px;
     width: 1000px;
     height: 150px;
